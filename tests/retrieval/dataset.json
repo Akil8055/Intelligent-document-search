@@ -1,0 +1,258 @@
+[
+  {
+    "id": "q-01",
+    "category": "exact_keyword",
+    "query": "Reciprocal Rank Fusion",
+    "relevant_pages": [1],
+    "relevant_keywords": ["Reciprocal Rank Fusion", "RRF"],
+    "graded_relevance": { "1": 3 }
+  },
+  {
+    "id": "q-02",
+    "category": "exact_keyword",
+    "query": "PyMuPDF parses document trees",
+    "relevant_pages": [2],
+    "relevant_keywords": ["PyMuPDF", "parses document trees"],
+    "graded_relevance": { "2": 3 }
+  },
+  {
+    "id": "q-03",
+    "category": "exact_keyword",
+    "query": "all-MiniLM-L6-v2 transformer computes 384-dimensional",
+    "relevant_pages": [2],
+    "relevant_keywords": ["all-MiniLM-L6-v2", "384-dimensional"],
+    "graded_relevance": { "2": 3 }
+  },
+  {
+    "id": "q-04",
+    "category": "exact_keyword",
+    "query": "Mean Reciprocal Rank (MRR)",
+    "relevant_pages": [3],
+    "relevant_keywords": ["Mean Reciprocal Rank", "MRR"],
+    "graded_relevance": { "3": 3 }
+  },
+  {
+    "id": "q-05",
+    "category": "exact_keyword",
+    "query": "ms-marco-MiniLM-L-6-v2",
+    "relevant_pages": [3],
+    "relevant_keywords": ["ms-marco-MiniLM-L-6-v2", "cross-encoder"],
+    "graded_relevance": { "3": 3 }
+  },
+  {
+    "id": "q-06",
+    "category": "exact_keyword",
+    "query": "tsvector gin indexes",
+    "relevant_pages": [2],
+    "relevant_keywords": ["tsvector", "gin"],
+    "graded_relevance": { "2": 3 }
+  },
+  {
+    "id": "q-07",
+    "category": "synonym_paraphrase",
+    "query": "lexical and neural search combination",
+    "relevant_pages": [1],
+    "relevant_keywords": ["hybrid", "lexical", "dense"],
+    "graded_relevance": { "1": 3, "2": 1 }
+  },
+  {
+    "id": "q-08",
+    "category": "synonym_paraphrase",
+    "query": "splitting documents into smaller sections with overlap",
+    "relevant_pages": [2],
+    "relevant_keywords": ["Chunking", "tokens", "overlap"],
+    "graded_relevance": { "2": 3 }
+  },
+  {
+    "id": "q-09",
+    "category": "synonym_paraphrase",
+    "query": "converting text into vector representations",
+    "relevant_pages": [2],
+    "relevant_keywords": ["Embedding", "transformer", "vectors"],
+    "graded_relevance": { "2": 3, "1": 1 }
+  },
+  {
+    "id": "q-10",
+    "category": "synonym_paraphrase",
+    "query": "measuring search engine ranking quality",
+    "relevant_pages": [3],
+    "relevant_keywords": ["Recall@5", "Precision@5", "MRR", "nDCG"],
+    "graded_relevance": { "3": 3 }
+  },
+  {
+    "id": "q-11",
+    "category": "synonym_paraphrase",
+    "query": "safeguarding against duplicate job processing",
+    "relevant_pages": [2],
+    "relevant_keywords": ["Idempotency", "Unique constraints"],
+    "graded_relevance": { "2": 3 }
+  },
+  {
+    "id": "q-12",
+    "category": "synonym_paraphrase",
+    "query": "secondary scoring model to refine top candidates",
+    "relevant_pages": [3],
+    "relevant_keywords": ["cross-encoder", "reranking"],
+    "graded_relevance": { "3": 3 }
+  },
+  {
+    "id": "q-13",
+    "category": "natural_language",
+    "query": "Why do dense vector embeddings struggle with rare technical terms?",
+    "relevant_pages": [1],
+    "relevant_keywords": ["dense vectors frequently struggle", "exact technical identifiers", "acronyms"],
+    "graded_relevance": { "1": 3 }
+  },
+  {
+    "id": "q-14",
+    "category": "natural_language",
+    "query": "What are the steps in the document ingestion pipeline?",
+    "relevant_pages": [2],
+    "relevant_keywords": ["Ingestion Pipeline", "Text Extraction", "Chunking", "Embedding"],
+    "graded_relevance": { "2": 3 }
+  },
+  {
+    "id": "q-15",
+    "category": "natural_language",
+    "query": "What chunk size and overlap are used for document segmentation?",
+    "relevant_pages": [2],
+    "relevant_keywords": ["500 tokens", "75 tokens of boundary overlap"],
+    "graded_relevance": { "2": 3 }
+  },
+  {
+    "id": "q-16",
+    "category": "natural_language",
+    "query": "How is idempotency guaranteed during document chunking?",
+    "relevant_pages": [2],
+    "relevant_keywords": ["Unique constraints", "document_id", "chunk_index"],
+    "graded_relevance": { "2": 3 }
+  },
+  {
+    "id": "q-17",
+    "category": "natural_language",
+    "query": "What was the measured MRR for hybrid search compared to pure keyword search?",
+    "relevant_pages": [3],
+    "relevant_keywords": ["MRR of 0.88", "MRR 0.64"],
+    "graded_relevance": { "3": 3 }
+  },
+  {
+    "id": "q-18",
+    "category": "natural_language",
+    "query": "What dimension are the sentence embeddings produced by the model?",
+    "relevant_pages": [2],
+    "relevant_keywords": ["384-dimensional", "all-MiniLM-L6-v2"],
+    "graded_relevance": { "2": 3 }
+  },
+  {
+    "id": "q-19",
+    "category": "rare_identifier",
+    "query": "BM25",
+    "relevant_pages": [1],
+    "relevant_keywords": ["BM25"],
+    "graded_relevance": { "1": 3 }
+  },
+  {
+    "id": "q-20",
+    "category": "rare_identifier",
+    "query": "TF-IDF",
+    "relevant_pages": [1],
+    "relevant_keywords": ["TF-IDF"],
+    "graded_relevance": { "1": 3 }
+  },
+  {
+    "id": "q-21",
+    "category": "rare_identifier",
+    "query": "SKU codes",
+    "relevant_pages": [1],
+    "relevant_keywords": ["SKU codes"],
+    "graded_relevance": { "1": 3 }
+  },
+  {
+    "id": "q-22",
+    "category": "rare_identifier",
+    "query": "nDCG@5",
+    "relevant_pages": [3],
+    "relevant_keywords": ["nDCG@5", "Normalized Discounted Cumulative Gain"],
+    "graded_relevance": { "3": 3 }
+  },
+  {
+    "id": "q-23",
+    "category": "rare_identifier",
+    "query": "ms-marco-MiniLM-L-6-v2",
+    "relevant_pages": [3],
+    "relevant_keywords": ["ms-marco-MiniLM-L-6-v2"],
+    "graded_relevance": { "3": 3 }
+  },
+  {
+    "id": "q-24",
+    "category": "multi_passage",
+    "query": "architecture and evaluation of hybrid retrieval",
+    "relevant_pages": [1, 2, 3],
+    "relevant_keywords": ["Architecture", "Evaluation", "hybrid"],
+    "graded_relevance": { "1": 2, "2": 3, "3": 3 }
+  },
+  {
+    "id": "q-25",
+    "category": "multi_passage",
+    "query": "dense embeddings and empirical benchmark results",
+    "relevant_pages": [2, 3],
+    "relevant_keywords": ["all-MiniLM-L6-v2", "benchmarks", "MRR"],
+    "graded_relevance": { "2": 2, "3": 3 }
+  },
+  {
+    "id": "q-26",
+    "category": "multi_passage",
+    "query": "PostgreSQL storage and ranking metrics",
+    "relevant_pages": [2, 3],
+    "relevant_keywords": ["PostgreSQL", "MRR", "Recall@5"],
+    "graded_relevance": { "2": 3, "3": 2 }
+  },
+  {
+    "id": "q-27",
+    "category": "multi_passage",
+    "query": "reranking and reciprocal rank fusion",
+    "relevant_pages": [1, 3],
+    "relevant_keywords": ["RRF", "reranking", "cross-encoder"],
+    "graded_relevance": { "1": 2, "3": 3 }
+  },
+  {
+    "id": "q-28",
+    "category": "multi_passage",
+    "query": "document ingestion and retrieval performance",
+    "relevant_pages": [2, 3],
+    "relevant_keywords": ["ingestion", "benchmarks", "Precision@1"],
+    "graded_relevance": { "2": 3, "3": 2 }
+  },
+  {
+    "id": "q-29",
+    "category": "negative",
+    "query": "quantum computer qubit error mitigation algorithms",
+    "relevant_pages": [],
+    "relevant_keywords": [],
+    "graded_relevance": {}
+  },
+  {
+    "id": "q-30",
+    "category": "negative",
+    "query": "quarterly dividend yield for Apple stock in 2024",
+    "relevant_pages": [],
+    "relevant_keywords": [],
+    "graded_relevance": {}
+  },
+  {
+    "id": "q-31",
+    "category": "negative",
+    "query": "how to train convolutional neural networks for self-driving cars",
+    "relevant_pages": [],
+    "relevant_keywords": [],
+    "graded_relevance": {}
+  },
+  {
+    "id": "q-32",
+    "category": "negative",
+    "query": "recipe for sourdough bread with organic flour",
+    "relevant_pages": [],
+    "relevant_keywords": [],
+    "graded_relevance": {}
+  }
+]

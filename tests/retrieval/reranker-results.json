@@ -1,0 +1,20 @@
+{
+  "hybrid": {
+    "recall@5": 1.0,
+    "precision@5": 0.2429,
+    "mrr": 0.9643,
+    "ndcg@5": 0.9608,
+    "latency_p50": 18.99,
+    "latency_p95": 24.17,
+    "latency_mean": 19.38
+  },
+  "hybrid + rerank": {
+    "recall@5": 1.0,
+    "precision@5": 0.2429,
+    "mrr": 0.9286,
+    "ndcg@5": 0.9378,
+    "latency_p50": 143.87,
+    "latency_p95": 183.71,
+    "latency_mean": 150.88
+  }
+}
